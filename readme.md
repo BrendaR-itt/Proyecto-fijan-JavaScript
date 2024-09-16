@@ -27,23 +27,7 @@ El proyecto está compuesto por los siguientes archivos principales:
 - **`styleIngresos.css`**: Archivo CSS que define el estilo para la página de ingresos.
 - **`styleIngresosGastos.css`**: Archivo CSS que define el estilo para la página de gastos.
 - **`styleHistorial.css`**: Archivo CSS que define el estilo para la página del historial de transacciones.
-
-## Instalación
-
-Para ejecutar el proyecto localmente, sigue estos pasos:
-
-1. **Clona el repositorio**:
-    ```bash
-    git clone <URL del repositorio>
-    ```
-
-2. **Navega al directorio del proyecto**:
-    ```bash
-    cd <nombre del directorio>
-    ```
-
-3. **Abre el archivo `index.html` en tu navegador** para ver la aplicación en funcionamiento.
-
+  
 ## Uso
 
 1. **Agregar Ingresos**:
